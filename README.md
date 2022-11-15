@@ -8,12 +8,12 @@ El primer paso para realizar este programa fue crear una clase por cada operaci�
 public class Suma,
 Public class Multiplicaciòn,
 Public class Promedio,
-Dentro de cada clase se utilizó "Float.parseFloat" para realizar una conversión de los datos
+Dentro de cada clase se utilizó "Float.parseFloat" para realizar una conversión de los datos,
 Posteriormente, se creó una clase y método para dar orden al funcionamiento del programa con lo siguiente:
-package AdrianaMoreno; Nombre del paquete
-import java.util.Scanner; Traemos la entrada del usuario por teclado
-public class Main; Método principal
-Variables de las clases ya nombradas y además la del scanner
+package AdrianaMoreno; Nombre del paquete,
+import java.util.Scanner; Traemos la entrada del usuario por teclado,
+public class Main; Método principal,
+Variables de las clases ya nombradas y además la del scanner:
 static public Suma objetosuma; 
 static public Multiplicación objetomult; 
 static public Promedio objetoprom; 
