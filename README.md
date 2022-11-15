@@ -5,9 +5,9 @@ Servicio de apoyo Lácteos La Peñita
 Hola Bienvenido a lácteos la Peñita
 
 El primer paso para realizar este programa fue crear una clase por cada operaciòn a realizar:
-public class Suma
-Public class Multiplicaciòn
-Public class Promedio
+public class Suma,
+Public class Multiplicaciòn,
+Public class Promedio,
 Dentro de cada clase se utilizó "Float.parseFloat" para realizar una conversión de los datos
 Posteriormente, se creó una clase y método para dar orden al funcionamiento del programa con lo siguiente:
 package AdrianaMoreno; Nombre del paquete
